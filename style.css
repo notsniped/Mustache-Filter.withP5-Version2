@@ -9,6 +9,7 @@ canvas {
     animation-duration: 4s;
     animation-iteration-count: infinite;
     border-radius: 4px;
+    top-margin: 100px;
 }
 @keyframes shadowshift {
     0% {box-shadow: 0 0px 7px 0 yellow;}
