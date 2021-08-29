@@ -21,7 +21,7 @@ function gotPoses(results) {
     }
 }
 function draw() {
-    image(video, 0, 0, 300, 300);
+    image(video, 0, 100, 300, 300);
 }
 function take_snapshot() {
     save("mySnapshot.png");
